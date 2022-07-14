@@ -10,9 +10,3 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
-
-# img
-*.img
-*.png
-*.jpg
-*.jpeg
