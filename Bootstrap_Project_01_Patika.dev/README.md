@@ -1,4 +1,4 @@
-# PATIKA.DEV CSS HW 03
+# PATIKA.DEV Bootstrap HW 01
 
 ![Proje Görseli](/Bootstrap_Project_01_Patika.dev/sshot.jpg)
 
